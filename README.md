@@ -14,4 +14,4 @@ This takeaway has not only benefitted me for the projects I have completed after
 
 I got stuck many times throughout this project. My three main areas of trouble were: debugging my database class, avoiding memory leaks, and passing edge cases like customers making non-valid purchases.
 I knew the only way to get unstuck was by debugging only parts of my code at a time, referencing my code with a friend to have a fresh set of eyes give me their opinion on the way I implemented some functions,
-and by taking my time to really dive deep into every line of code and understand their purpose.
+and by taking my time to really dive deep into every line of code to understand their purpose.
